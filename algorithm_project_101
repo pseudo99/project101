@@ -1,0 +1,11 @@
+This is the algorithm for the simple simulater project.
+We are going to simulate the motion of an object in air where they is wind and pressure variables
+for a start those are the only variables in conceidaration
+The object is going to be stored as an object and that is in python stored as a class.
+The class will be able to pull out the object's location, equations of motion and display it on a good tkinter canvas graphics. 
+Changes to the atmosphere will have significant effect on the object. This is a start up project so everything is going to remain basic
+
+Algorithm
+
+class Particle( size, location, color):
+    plot 
